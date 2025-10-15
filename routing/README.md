@@ -2,9 +2,9 @@
 <h1>Learning Path</h1>
 </div>
 
-## File Base Routing
+## Day 1 
 
-# Day 1 
+# File Base Routing
 - page.tsx
 - layout.tsx
 - basic folder structuring
