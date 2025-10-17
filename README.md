@@ -25,4 +25,11 @@
 - error.tsx
 - error handling
 
+# Route 
+- if circle --> Static Route
+- if f / lambda --> Dynamic Route 
+
+# Caching
+- full route cache --> time-base caching, on-demand caching, disable chaching
+
 
