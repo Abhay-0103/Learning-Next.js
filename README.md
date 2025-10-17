@@ -22,5 +22,6 @@
 - layout.tsx
 - not-found.tsx
 - loading.tsx
+- error.tsx 
 
 
