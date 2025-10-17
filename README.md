@@ -13,10 +13,11 @@
 - Link
 - image Reanding
 
-## Day 2 & 3
-# Building Snippet Using Next.js Project Base Learning
-- [Link](#https://github.com/Abhay-0103/Snippets-Next.js)
-# App Routing 
+# Day 2 & 3
+## Building Snippet Using Next.js Project Base Learning
+- Link [https://github.com/Abhay-0103/Snippets-Next.js]
+  
+## App Routing 
 - page.tsx
 - layout.tsx
 - not-found.tsx
