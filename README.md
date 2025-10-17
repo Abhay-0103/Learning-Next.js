@@ -22,6 +22,7 @@
 - layout.tsx
 - not-found.tsx
 - loading.tsx
-- error.tsx 
+- error.tsx
+- error handling
 
 
